@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("La vida es bella\n");
+    printf("Testing testing :3\n");
     return(EXIT_SUCCESS);
 }
